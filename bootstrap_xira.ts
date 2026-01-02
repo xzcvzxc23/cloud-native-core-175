@@ -1,0 +1,1 @@
+const service_xira = <T>(args: T): T => { return args; };
