@@ -1,0 +1,1 @@
+const util_kt82 = (d: any) => d;
